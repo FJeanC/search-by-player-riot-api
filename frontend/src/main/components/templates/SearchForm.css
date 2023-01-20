@@ -1,0 +1,40 @@
+.search-bar {
+    width: 550px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.search-bar input {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+    width: 65%;
+}
+
+.search-button {
+    background-color: #c80303;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 20%;
+}
+
+.search-button:hover {
+    background-color: #c34444;
+}
+
+button > img {
+    height: 32px;
+}
+
+.region {
+    color: #000;
+    text-align: center;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    width: 13%;
+    margin: 0;
+}

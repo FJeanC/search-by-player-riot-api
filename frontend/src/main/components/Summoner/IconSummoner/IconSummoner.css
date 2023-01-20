@@ -1,0 +1,22 @@
+.summoner-icon {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #fff;
+
+    border-radius: 20px;
+}
+
+.level{
+    height: 20px;
+    margin-top: -18px;
+    text-align: center;
+}
+
+.summoner-level {
+    background-color: #202D37;
+    line-height: 20px;
+    padding: 0px 8px;
+    font-size: 15px;
+    color: #fff;
+    border-radius: 10px;
+}

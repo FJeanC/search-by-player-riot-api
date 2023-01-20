@@ -1,0 +1,11 @@
+.win-losses{
+    display: flex;
+    flex-direction: column;
+}
+.win {
+    color: rgb(1, 1, 1)
+}
+
+.lose {
+    color: red;
+}
